@@ -56,21 +56,21 @@ Electronics Engineer Intern in IoT (Internet of Things)               Bangalore,
 ## PROJECTS
 **Cricket Match Analysis & Prediction (Skills: Python, Pandas, spark, ML)** [link](https://github.com/abhishekgoud23/Match-prediction-and-analysis)         
 *04/2023 - 05/2023*
-- Analyzed cricket match data of 14 years using Spark and Pandas
-- Conducted exploratory data analysis and developed predictive models
+- Analyzed cricket match data of 14 years to gain insights and make predictions about the game. Used Spark and Pandas to clean, transform, and analyze large datasets, including filtering, grouping, and aggregating.
+- Conducted exploratory data analysis to uncover patterns and trends in the data. Developed and tested predictive models using machine learning algorithms such as regression and decision trees.
+
 
 **Analysis and Viz of Arxiv (Skills: Python, NumPy, Pandas, Matplotlib)** [link](https://github.com/abhishekgoud23/Python-Projects/tree/main/Analysis%20and%20Viz%20of%20Arxiv)                  
 *10/2022 - 12/2022*
-- Analyzed and visualized data from a research papers website
+- Analyzed and visualized data from a pre-published research papers website of 2017-2021 years of 45k+ papers
 
 **Ecommerce (Skills: OOPS, DSA, Exception handling, and Testing)** [link](https://github.com/abhishekgoud23/Python-Projects/tree/main/Ecommerce)                  
 *10/2022 – 12/2022*
-- CLI format eCommerce application for small businesses
+- This is an eCommerce application for small businesses that sell products/services. This application is in CLI format with two views business and customer view 
 
 **FilePro (Skills: Python, NumPy, pandas, matplotlib, OS, OOPS)**  [link](https://github.com/abhishekgoud23/Python-Projects/tree/main/FilePro)                 
 *10/2022 - 11/2022*
-- Analyzes, visualizes a directory, and performs operations
-
+- FilePro analyzes, visualizes a directory, and does operations like creating a hash using SHA256, and a directory summary in a CSV file(Updates summary file if DOM is more than two days). Visualizes data in a line graph, bar graph, and pie chart  
 ## CERTIFICATIONS
 - Microsoft Certified Azure AI (04/2022)
 - Oracle Cloud Infrastructure Foundations 2021 Certified Associate (01/2022)
