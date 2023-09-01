@@ -59,15 +59,15 @@ Electronics Engineer Intern in IoT (Internet of Things)               Bangalore,
 - Analyzed cricket match data of 14 years using Spark and Pandas
 - Conducted exploratory data analysis and developed predictive models
 
-**Analysis and Viz of Arxiv (Skills: Python, NumPy, Pandas, Matplotlib)**          
+**Analysis and Viz of Arxiv (Skills: Python, NumPy, Pandas, Matplotlib)** [link](https://github.com/abhishekgoud23/Python-Projects/tree/main/Analysis%20and%20Viz%20of%20Arxiv)                  
 *10/2022 - 12/2022*
 - Analyzed and visualized data from a research papers website
 
-**Ecommerce (Skills: OOPS, DSA, Exception handling, and Testing)**          
+**Ecommerce (Skills: OOPS, DSA, Exception handling, and Testing)** [link](https://github.com/abhishekgoud23/Python-Projects/tree/main/Ecommerce)                  
 *10/2022 – 12/2022*
 - CLI format eCommerce application for small businesses
 
-**FilePro (Skills: Python, NumPy, pandas, matplotlib, OS, OOPS)**          
+**FilePro (Skills: Python, NumPy, pandas, matplotlib, OS, OOPS)**  [link](https://github.com/abhishekgoud23/Python-Projects/tree/main/FilePro)                 
 *10/2022 - 11/2022*
 - Analyzes, visualizes a directory, and performs operations
 
