@@ -1,5 +1,7 @@
+<center>
 # ABHISHEK GOUD THAMATAM
-+1 (347)-861-3400 • abhishekgoud.thamatam@gmail.com • [LinkedIn](https://www.linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername) • [Portfolio](https://yourportfolio.com) • MD, USA, 21228
++1 (347)-861-3400 • abhishekgoud.thamatam@gmail.com • [LinkedIn](https://www.linkedin.com/in/t-abhishek-goud/) • [GitHub](https://github.com/abhishekgoud23) • [Portfolio](https://abhishekgoud23.github.io/abhishekthamatam.github.io/) • MD, USA, 21228
+</center>
 
 ## EDUCATION
 **University of Maryland, Baltimore County (UMBC), Maryland, USA**          
@@ -15,7 +17,7 @@
 
 ## COURSEWORK
 - Introduction to Data Science
-- Deep Learning
+- Financial Data Science
 - Data Structures & Algorithms in Python
 - Data Management
 - Introduction to Data Analysis and Machine Learning
@@ -33,24 +35,21 @@
 ## PROFESSIONAL EXPERIENCE
 **Accenture**          
 *08/2021 – 05/2022*
-- Full-Stack Engineering Analyst
-- Hyderabad, India
+Full-Stack Engineering Analyst                                        Hyderabad, India
 - Designed dashboards with performance and financial metrics; 100+ Managers use these dashboards globally
 - Developed a Service Help Desk Portal using .Net, C#, and SQL. Increased productivity by 15%
 - Teamed with a ten-member cross-functional team to implement a new CPM system; used by 100+ employees
 
 **OpenText**          
 *02/2021 – 06/2021*
-- Software Engineer Intern
-- Bangalore, India
+Software Engineer Intern                                              Bangalore, India
 - Collaborated on the BrightCloud Cloud Service Intelligence (C.S.I) Project
 - Optimized data collection time by 60% using a Python web scraping program
 - Automated the process of searching valid TLDs for a domain using Python scripts
 
 **LearnElectronics India (Profile)**          
 *07/2020 – 09/2020*
-- Electronics Engineer Intern in IoT (Internet of Things)
-- Bangalore, India
+Electronics Engineer Intern in IoT (Internet of Things)               Bangalore, India
 - Developed 16 IoT projects using Arduino and NodeMCU
 - Created 20+ tutorial videos
 
