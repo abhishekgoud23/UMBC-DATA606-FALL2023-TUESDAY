@@ -1,7 +1,7 @@
-<center>
+
 # ABHISHEK GOUD THAMATAM
 +1 (347)-861-3400 • abhishekgoud.thamatam@gmail.com • [LinkedIn](https://www.linkedin.com/in/t-abhishek-goud/) • [GitHub](https://github.com/abhishekgoud23) • [Portfolio](https://abhishekgoud23.github.io/abhishekthamatam.github.io/) • MD, USA, 21228
-</center>
+
 
 ## EDUCATION
 **University of Maryland, Baltimore County (UMBC), Maryland, USA**          
@@ -54,7 +54,7 @@ Electronics Engineer Intern in IoT (Internet of Things)               Bangalore,
 - Created 20+ tutorial videos
 
 ## PROJECTS
-**Cricket Match Analysis & Prediction (Skills: Python, Pandas, spark, ML )**          
+**Cricket Match Analysis & Prediction (Skills: Python, Pandas, spark, ML)** [link](https://github.com/abhishekgoud23/Match-prediction-and-analysis)         
 *04/2023 - 05/2023*
 - Analyzed cricket match data of 14 years using Spark and Pandas
 - Conducted exploratory data analysis and developed predictive models
